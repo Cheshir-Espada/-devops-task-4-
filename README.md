@@ -54,3 +54,4 @@ To deploy Jenkins with auto-configured job:
 ```bash
 helm upgrade --install jenkins jenkins/jenkins -n jenkins -f jenkins-values.yaml
 
+
